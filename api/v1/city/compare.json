@@ -1,0 +1,73 @@
+{
+    "data": [{
+        "type": "restaurants",
+        "data": [{
+            "id": 1,
+            "name": "Meal, Inexpensive Restaurant",
+            "prices": [{
+                "value": 45,
+                "currency": "JOD",
+                "converted_value": 24.91,
+                "converted_currency": "AED"
+            }, {
+                "value": 54.20,
+                "currency": "JOD",
+                "converted_value": 50.00,
+                "converted_currency": "AED"
+            }]
+        }, {
+            "id": 2,
+            "name": "Cappuccino (regular)",
+            "prices": [{
+                "value": 10,
+                "currency": "JOD",
+                "converted_value": 1.91,
+                "converted_currency": "AED"
+            }, {
+                "value": 1,
+                "currency": "JOD",
+                "converted_value": 2.00,
+                "converted_currency": "AED"
+            }]
+        }]
+    }, {
+        "type": "markets",
+        "data": [{
+            "id": 1,
+            "name": "Milk (regular), (1 liter)",
+            "prices": [{
+                "value": 10,
+                "currency": "JOD",
+                "converted_value": 5.24,
+                "converted_currency": "AED"
+            }, {
+                "value": 5.45,
+                "currency": "JOD",
+                "converted_value": 1.54,
+                "converted_currency": "AED"
+            }]
+        }]
+    }, {
+        "type": "rent_prices",
+        "data": [{
+            "id": 1,
+            "name": "Apartment (1 bedroom) in City Centre",
+            "prices": [{
+                "value": 100,
+                "currency": "JOD",
+                "converted_value": 50,
+                "converted_currency": "AED"
+            }, {
+                "value": 90,
+                "currency": "JOD",
+                "converted_value": 40,
+                "converted_currency": "AED"
+            }]
+        }]
+    }],
+    "cities_info": [{
+        "avarage_salary": 1000
+    }, {
+        "avarage_salary": 4000
+    }]
+}

@@ -1,0 +1,11 @@
+{
+    "data": [{
+        "id": 1,
+        "country": "Jordan",
+        "name": "Amman"
+    }, {
+        "id": 2,
+        "country": "United Arab Emirates",
+        "name": "Dubai"
+    }]
+}

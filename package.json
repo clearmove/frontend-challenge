@@ -1,0 +1,25 @@
+{
+  "name": "clearmove",
+  "version": "1.0.0",
+  "description": "Clear move frontend challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "clearmove",
+    "frontend",
+    "challenge",
+    "angularjs",
+    "restfulapi"
+  ],
+  "author": "ClearMove.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5",
+    "morgan": "^1.7.0"
+  }
+}
