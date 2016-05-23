@@ -1,6 +1,6 @@
 # Frontend Challenge (AngularJS)
 
-![alt text](http://i.imgur.com/C3jZ9Xi.png "Get cities")
+![alt text](https://raw.githubusercontent.com/Clearmove/frontend-challenge/master/img/screenshots/C3jZ9Xi.png "Get cities")
 
 Your task is to implement a basic **city comparison** for a website, following these basic rules:
 
@@ -68,13 +68,13 @@ For some of the methods mentioned in the empty `City` service, we thought of giv
 This is for the `typeahead` to get the cities in **api/v1/city/all.json**
 
 ##### For example:
-![alt text](http://i.imgur.com/UPsdlNM.png "Get cities")
+![alt text](https://raw.githubusercontent.com/Clearmove/frontend-challenge/master/img/screenshots/UPsdlNM.png "Get cities")
 
 #### compare
 This is to comapre between two cities in **api/v1/city/compare.json**
 
 ##### For example:
-![alt text](http://i.imgur.com/us4axzO.png "City compare")
+![alt text](https://raw.githubusercontent.com/Clearmove/frontend-challenge/master/img/screenshots/us4axzO.png "City compare")
 
 ### Dependencies
 
